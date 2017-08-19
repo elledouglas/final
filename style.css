@@ -174,3 +174,22 @@ padding-top: 6vh;
 width: 30%;
 float: right;
 padding-right: 15px;}
+
+#rose {
+background-image:url('./rose.jpg');
+height: 100vh;
+/*#viewportheight*/
+background-size: cover;
+background-position: center;
+display: flex;
+flex-direction:column;
+justify-content: center;
+align-items:center;
+padding:0 20px;
+text-align:center;
+}
+img {
+width:30%;
+height:30vh;
+padding-left: 1%;
+}
