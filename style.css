@@ -11,7 +11,7 @@ color: #808080;
 }
 
 #kiss {
-background-image:url('./kiss.jpeg');
+background-image:url('./img/kiss.jpeg');
 height: 100vh;
 /*#viewportheight*/
 background-size: cover;
@@ -83,7 +83,7 @@ padding: 20px;
 
 /*=====================ABOUT PAGE*/
 #video{
-background-image:url('video.jpg');
+background-image:url('./img/video.jpg');
 height: 80vh;
 background-size: cover;
 background-position: center;
@@ -176,7 +176,7 @@ float: right;
 padding-right: 15px;}
 
 #rose {
-background-image:url('./rose.jpg');
+background-image:url('./img/rose.jpg');
 height: 100vh;
 /*#viewportheight*/
 background-size: cover;
