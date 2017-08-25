@@ -1,0 +1,41 @@
+1. As a user I can signup and create an account/full dating profile using my email and a secure password.
+
+2. As a user I expect my user profile to include a unique name, my actual name, age, gender, sexual preference (f4m, m4f, m4m, f4f), relationship status,
+desire for children, location, ethnicity, religion, occupation.
+
+3. As a user I expect to be able to view an index page of the gender I'm interested in, then click on an individual user's profile page. (index -> show)
+
+4. As a user, on the index page I expect to be able to refine results by age, relationship status, children, username, religion, ethnicity, and the type of relationship I'm interested in.
+   I expect to be able to filter all these options by clicking the
+
+5. As a user, I expect to be able to message other users through email. (API: Twilio, or rails can build emails and Heroku can send them)
+
+6. As a user, I expect to be able to click an option on the profile pages of others to be able to block them.
+
+7. As a user, I expect to be able to delete my own profile from the app database.
+
+8. As a user, I expect to be able to add a about-me video file to my user page that is front and center to my profile.
+
+9. As a user, I expect to be able to view my own profile page where I can update my profile info.
+
+10. As a user, I expect that every user profile that is returned as a result on my index page will have an about-me video. Meaning
+all users are required to upload/add a video to their profile in order to be viewable by others.
+
+11. As a user, I expect to not be required to fill out every field in the dating profile form.
+
+12. As a user, I expect to be able to "favorite" other user profiles that I'm interested in.
+
+13. As a user, I expect to be able to flag the about-me videos of other users for innappropriate content.
+    (do this with flags column in users table)
+
+
+
+------------------------------------------------------------------------------------
+
+Nice to haves:
+
+- As a user, I expect to be able to send winks to other users I'm interested in.
+- As a user, I expect to receive a message at the top of the page when I sign in which states how many new winks I have received.
+- As a user, I expect to be able to view my bookmarked profiles and wink sends/receives.
+
+ As a user, I expect to be able to connect my instagram account to my dating profile.
